@@ -7,7 +7,7 @@ I have designed the NeuroNet model to classify brain tumors from MRI scans utili
 This project is an application of the deep learning theory and techniques I have learned. The dataset can be seen here: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Training. I have trained my model to classify 4 classes: giloma, meningioma, no tumor and pituitary. Here are some of the test set predictions below!
 
 
-<img width="1058" alt="image" src="https://github.com/Ari1029/NeuroNet/assets/45503218/aa29dd4b-e206-4521-a928-44b7a4f80d8f">
+<img width="926" alt="image" src="https://github.com/Ari1029/NeuroNet-Brain-Tumor-Classification/assets/45503218/5c1768b5-9b6c-449c-9176-b6607588bcd0">
 
 
 
