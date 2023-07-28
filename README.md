@@ -1,2 +1,3 @@
-# NeuroNet
-A deep learning model for highly accurate brain tumor classification from MRI scans.
+**NeuroNet: Deep Learning for Brain MRI Tumor Classification**
+
+I have designed the NeuroNet model to classify brain tumors from MRI scans utilizing the VGG19 model pre-trained on the ImageNet dataset. The VGG19 model is a robust deep learning model, which has a top-5 test accuracy exceeding 90% on ImageNet's cross validation set. I have trained and fine-tuned my model on a comprehensive dataset of over 5700 MRI scans derived from figshare, SARTAJ, and Br35H. I have also used Keras Fine Tuner, adjustments to VGG19 layers, and Dense and Dropout layers to optimize my model's performance. As a result, my model was able to **achieve an accuracy of 97.7% on the test set**, which is unseen data.
